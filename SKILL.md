@@ -4,6 +4,9 @@ description: 保存网络文章（博客、论坛、公众号等）到本地 Mar
 trigger:
   - 用户发送文章链接 (任何网站)
   - 用户说"保存这篇文章"、"保存到blog"、"存到学习blog"
+version: 1.0.0
+author: XiaoYiWeio
+tags: [web-scraping, markdown, blog, article-saver, productivity]
 ---
 
 # 网络文章保存 Skill
